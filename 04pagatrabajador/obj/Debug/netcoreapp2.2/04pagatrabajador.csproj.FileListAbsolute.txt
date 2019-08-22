@@ -1,0 +1,11 @@
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\bin\Debug\netcoreapp2.2\04pagatrabajador.deps.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\bin\Debug\netcoreapp2.2\04pagatrabajador.runtimeconfig.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\bin\Debug\netcoreapp2.2\04pagatrabajador.runtimeconfig.dev.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\bin\Debug\netcoreapp2.2\04pagatrabajador.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\bin\Debug\netcoreapp2.2\04pagatrabajador.pdb
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.csprojAssemblyReference.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.csproj.CoreCompileInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.AssemblyInfoInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.AssemblyInfo.cs
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\04pagatrabajador\obj\Debug\netcoreapp2.2\04pagatrabajador.pdb
