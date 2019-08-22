@@ -19,7 +19,7 @@ namespace _03.areatringulo
             b = float.Parse(args[0]);
             a = float.Parse(args[1]);
             area = b*a/2;
-            Console.WriteLine($"El are es {area}");
+            Console.WriteLine($"El trinagulo de base:{b} y altura: {a} tiene un are de:{area}");
 
         }
     }
