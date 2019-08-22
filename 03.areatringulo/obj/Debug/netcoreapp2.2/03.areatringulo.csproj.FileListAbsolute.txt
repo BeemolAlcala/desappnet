@@ -1,0 +1,11 @@
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\bin\Debug\netcoreapp2.2\03.areatringulo.deps.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\bin\Debug\netcoreapp2.2\03.areatringulo.runtimeconfig.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\bin\Debug\netcoreapp2.2\03.areatringulo.runtimeconfig.dev.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\bin\Debug\netcoreapp2.2\03.areatringulo.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\bin\Debug\netcoreapp2.2\03.areatringulo.pdb
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.csprojAssemblyReference.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.csproj.CoreCompileInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.AssemblyInfoInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.AssemblyInfo.cs
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\03.areatringulo\obj\Debug\netcoreapp2.2\03.areatringulo.pdb
