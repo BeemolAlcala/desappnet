@@ -1,0 +1,11 @@
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\bin\Debug\netcoreapp2.2\14.vectorestadistics.deps.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\bin\Debug\netcoreapp2.2\14.vectorestadistics.runtimeconfig.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\bin\Debug\netcoreapp2.2\14.vectorestadistics.runtimeconfig.dev.json
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\bin\Debug\netcoreapp2.2\14.vectorestadistics.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\bin\Debug\netcoreapp2.2\14.vectorestadistics.pdb
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.csprojAssemblyReference.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.csproj.CoreCompileInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.AssemblyInfoInputs.cache
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.AssemblyInfo.cs
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.dll
+C:\Users\DesaApliWebAvanz\Documents\aplicaciones_internet\14.vectorestadistics\obj\Debug\netcoreapp2.2\14.vectorestadistics.pdb
